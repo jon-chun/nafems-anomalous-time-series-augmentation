@@ -1,11 +1,12 @@
 # NAFEMS Conference
 
-![NAFEMS Conference Page](screen_nafems_AIML_for_mfg.png)
-
 ## Artificial Intelligence and Machine Learning for Manufacturing
 * https://www.nafems.org/events/nafems/2023/artificial-intelligence-and-machine-learning-for-manufacturing/
 * 20-21 September 2023
 
+![NAFEMS Conference Page](screen_nafems_AIML_for_mfg.png)
+* https://www.nafems.org/events/nafems/2023/artificial-intelligence-and-machine-learning-for-manufacturing/ *
+  
 ### Multilayered Large Language Models Strategies for Generating Time Series Simulation Data
 * https://www.nafems.org/events/nafems/2023/artificial-intelligence-and-machine-learning-for-manufacturing/kenyon-abstract/
 * Jon Chun
@@ -16,7 +17,6 @@
 # NAFEMS Conference
 
 ## Artificial Intelligence and Machine Learning for Manufacturing
-- https://www.nafems.org/events/nafems/2023/artificial-intelligence-and-machine-learning-for-manufacturing/
 - 20-21 September 2023
 
 ### Multilayered Large Language Models Strategies for Generating Time Series Simulation Data
