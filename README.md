@@ -5,7 +5,8 @@
 * 20-21 September 2023
 
 ![NAFEMS Conference Page](screen_nafems_AIML_for_mfg.png)
-* https://www.nafems.org/events/nafems/2023/artificial-intelligence-and-machine-learning-for-manufacturing/ *
+
+<hr>
   
 ### Multilayered Large Language Models Strategies for Generating Time Series Simulation Data
 * https://www.nafems.org/events/nafems/2023/artificial-intelligence-and-machine-learning-for-manufacturing/kenyon-abstract/
@@ -22,7 +23,7 @@
 ### Multilayered Large Language Models Strategies for Generating Time Series Simulation Data
 - https://www.nafems.org/events/nafems/2023/artificial-intelligence-and-machine-learning-for-manufacturing/kenyon-abstract/
 - Jon Chun  
-- Notes and references for NAFEMS talk on augmenting anomalous time series datasets
+- ![Notes and references](NAFEMS%20Anomalous%20Time%20Series%20Augmentation%20References.docx) for NAFEMS talk on augmenting anomalous time series datasets
 
 ## NAFEMS Anomalous Time Series Augmentation
 - 20 Sep 2023
